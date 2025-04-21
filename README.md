@@ -80,10 +80,3 @@ python app.py
 - Advanced analytics and reporting
 - Multi-factor authentication
 
-## License
-
-[MIT License](LICENSE)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
